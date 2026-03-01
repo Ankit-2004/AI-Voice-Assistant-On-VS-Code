@@ -47,7 +47,8 @@ LIVEKIT_API_SECRET=
 Run these commands on Terminal : 
 
 python -m venv venv
-venv\Scripts\activate     # Windows
+
+venv\Scripts\activate
 
 
 
